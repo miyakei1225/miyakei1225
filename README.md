@@ -3,6 +3,13 @@
 
 I love open source.
 
+## 💻 I know & using (Languages and Tools)
+
+<code><img height="40" title="C Programming" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/c-programming.svg"></code>
+<code><img height="40" title="Visual Studio " src="https://github.com/iamruveyda/iamruveyda/blob/master/img/visual_studio.png?raw=true"></code>
+
+
+
 <div align="center">
 
 <a href="http://twitter.com/38ke1"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/twitter.svg" ></a>
