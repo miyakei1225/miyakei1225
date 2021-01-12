@@ -1,4 +1,4 @@
-### Hi there I'm Web Developer 👋
+### Hi there☺️ I'm Web Developer 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225)](https://github.com/ryo-ma/github-profile-trophy)
 
