@@ -7,7 +7,7 @@ I love open source.
 
 <a href="https://www.linkedin.com/in/iamruveyda/"><img height="70" alt="Linkedin" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/linkedin.svg" ></a>
 <a href="http://twitter.com/iamruveyda"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/twitter.svg" ></a>
-<a href="https://github.com/iamruveyda"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/github.svg" ></a>
+<a href="https://github.com/miyakei1225"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/github.svg" ></a>
 <a href="https://medium.com/@iamruveyda"><img height="70" alt="Medium" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/medium.svg" ></a>
 
 
