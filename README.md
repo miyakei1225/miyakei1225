@@ -1,4 +1,5 @@
 ### Hi there☺️ I'm Web Developer 👋
+![](https://komarev.com/ghpvc/?username=miyakei1225&color=green)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -10,7 +11,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=miyakei1225&theme=react&show_icons=true" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=miyakei1225&color=green)
+
 
 
 <!--
