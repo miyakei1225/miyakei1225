@@ -3,10 +3,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miyakei1225&theme=react&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyakei1225&layout=compact" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miyakei1225&theme=react&show_icons=true" />
 </a>
 
 
