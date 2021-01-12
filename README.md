@@ -32,15 +32,16 @@ I love open source.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyakei1225&layout=compact" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miyakei1225&theme=react&show_icons=true" />
-</a>
 </p>
 
 <p align="left"> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miyakei1225&theme=react&show_icons=true" />
+</a>
+
+
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satorunooshie&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=satorunooshie&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  
 </p>
 
 
