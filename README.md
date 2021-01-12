@@ -3,6 +3,16 @@
 
 I love open source.
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/iamruveyda/"><img height="70" alt="Linkedin" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/linkedin.svg" ></a>
+<a href="http://twitter.com/iamruveyda"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/twitter.svg" ></a>
+<a href="https://github.com/iamruveyda"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/github.svg" ></a>
+<a href="https://medium.com/@iamruveyda"><img height="70" alt="Medium" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/medium.svg" ></a>
+
+
+</div>
+
 
 ## 📈 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225)](https://github.com/ryo-ma/github-profile-trophy)
