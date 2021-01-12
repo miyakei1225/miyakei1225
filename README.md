@@ -10,11 +10,11 @@ I love open source.
 
 </div>
 
-<div align="center">
+
 ## 📚 I'm currently learning & working
 
 <code><img height="40" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-</div>
+
 
 
 ## 📈 GitHub Stats
