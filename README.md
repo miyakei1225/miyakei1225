@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there I'm Web Developer 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miyakei1225&theme=react&show_icons=true)
 
 <!--
 **miyakei1225/miyakei1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
