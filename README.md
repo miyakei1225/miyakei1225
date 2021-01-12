@@ -1,6 +1,8 @@
 ### Hi there☺️ I'm Web Developer 👋
 ![](https://komarev.com/ghpvc/?username=miyakei1225&color=green)
 
+I love open source.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
