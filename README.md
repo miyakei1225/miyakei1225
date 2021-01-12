@@ -33,11 +33,11 @@ I love open source.
 <code><img height="40" title="Visual Studio " src="https://github.com/iamruveyda/iamruveyda/blob/master/img/visual_studio.png?raw=true"></code>
 -->
 
-<br>
+<div>
 ## 📚 I'm currently learning & working
 
 <code><img height="40" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
+</div>
 
 <!--
 **miyakei1225/miyakei1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
