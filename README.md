@@ -4,7 +4,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miyakei1225&theme=react&show_icons=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miyakei1225&repo=Golang)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miyakei1225)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **miyakei1225/miyakei1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
