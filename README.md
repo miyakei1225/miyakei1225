@@ -11,17 +11,17 @@ I love open source.
 </div>
 
 ## 💻 I know & using (Languages and Tools)
-<code><img height="40" title="C Programming" src="https://www.casleyconsulting.co.jp/wordpress/wp-content/uploads/2019/07/laravel-512.png"></code>
-<code><img height="40" title="C Programming" src="https://www.kaoriya.net/blog/2013/12/06/vimlogo-564x564.png"></code>
-<code><img height="40" title="Visual Studio " src="https://github.com/iamruveyda/iamruveyda/blob/master/img/visual_studio.png?raw=true"></code>
+<code><img height="40" title="Laravel" src="https://www.casleyconsulting.co.jp/wordpress/wp-content/uploads/2019/07/laravel-512.png"></code>
+<code><img height="40" title="Vim" src="https://www.kaoriya.net/blog/2013/12/06/vimlogo-564x564.png"></code>
+<code><img height="40" title="Visual Studio" src="https://github.com/iamruveyda/iamruveyda/blob/master/img/visual_studio.png?raw=true"></code>
 
 
 
 ## 📚 I'm currently learning & working
 
 <code><img height="40" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" title="Java" src="https://startappdevfrom35.com/wp-content/uploads/2018/05/Go-Logo_Aqua.png"></code>
-<code><img height="40" title="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOHR726r4ZEiLI5n7vCTkGbaq15BRE-BlgCg&usqp=CAU"></code>
+<code><img height="40" title="Golang" src="https://startappdevfrom35.com/wp-content/uploads/2018/05/Go-Logo_Aqua.png"></code>
+<code><img height="40" title="Swift" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOHR726r4ZEiLI5n7vCTkGbaq15BRE-BlgCg&usqp=CAU"></code>
 
 
 
@@ -35,19 +35,6 @@ I love open source.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=miyakei1225&theme=react&show_icons=true" />
 </a>
-
-
-
-
-<!--## 💻 I know & using (Languages and Tools)
-
-<code><img height="40" title="C Programming" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/c-programming.svg"></code>
-<code><img height="40" title="HTML5" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/html5.svg"></code>
-<code><img height="40" title="CSS" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/css.svg"></code>
-<code><img height="40" title="Visual Studio " src="https://github.com/iamruveyda/iamruveyda/blob/master/img/visual_studio.png?raw=true"></code>
--->
-
-
 
 <!--
 **miyakei1225/miyakei1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
