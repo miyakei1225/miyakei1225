@@ -6,8 +6,8 @@
 <a href="http://qiita.com/miyakei1225">
 <img height="20" src="https://qiita-badge.apiapi.app/s/miyakei1225/posts.svg" />
 </a>
-<a href="http://qiita.com/satorunooshie">
-<img height="20" src="https://qiita-badge.apiapi.app/s/satorunooshie/contributions.svg" />
+<a href="http://qiita.com/miyakei1225">
+<img height="20" src="https://qiita-badge.apiapi.app/s/miyakei1225/contributions.svg" />
 </a>
 
 I love open source.
