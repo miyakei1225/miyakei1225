@@ -28,7 +28,9 @@ I love open source.
 
 ## 📚 I'm currently learning & working
 
-<code><img height="40" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" title="Next.js" src="https://blog.f-arts.work/wp-content/uploads/2018/09/nextjs.png"></code>
+
 <code><img height="40" title="Golang" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png"></code>
 <code><img height="40" title="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
 <code><img height="40" title="Swift" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOHR726r4ZEiLI5n7vCTkGbaq15BRE-BlgCg&usqp=CAU"></code>
