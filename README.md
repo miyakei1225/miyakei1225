@@ -22,7 +22,7 @@ I love open source.
 ## 💻 I know & using (Languages and Tools)
 <code><img height="40" title="Laravel" src="https://www.casleyconsulting.co.jp/wordpress/wp-content/uploads/2019/07/laravel-512.png"></code>
 <code><img height="40" title="Vim" src="https://www.kaoriya.net/blog/2013/12/06/vimlogo-564x564.png"></code>
-<code><img height="40" title="Visual Studio" src="https://github.com/iamruveyda/iamruveyda/blob/master/img/visual_studio.png?raw=true"></code>
+<code><img height="40" title="Visual Studio" src="https://beyondjapan.com/cms/wp-content/uploads/2019/06/500px-Visual_Studio_Code_1.35_icon.svg_.png"></code>
 
 
 
