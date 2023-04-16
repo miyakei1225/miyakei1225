@@ -38,12 +38,9 @@ I love open source.
 
 
 ## 📈 GitHub Stats
+|<img alt="snake animation" width="100%" src="https://user-images.githubusercontent.com/105062512/230812023-331255bc-461a-4c22-971a-f05e9220d9c5.svg" />
+|:-:|
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={miyakei1225}&theme={solarized}
-
-[![](https://raw.githubusercontent.com/miyakei1225/profile/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/miyakei1225/profile/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/profile/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/miyakei1225/profile/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/profile/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225)](https://github.com/ryo-ma/github-profile-trophy)
