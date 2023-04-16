@@ -41,11 +41,11 @@ I love open source.
 |<img alt="snake animation" width="100%" src="https://user-images.githubusercontent.com/105062512/230812023-331255bc-461a-4c22-971a-f05e9220d9c5.svg" />
 |:-:|
 
-[![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/moltack/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/moltack/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/moltack/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/moltack/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/moltack/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225&row=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **miyakei1225/miyakei1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
