@@ -12,12 +12,6 @@
 
 I love open source.
 
-<div align="center">
-
-<a href="http://twitter.com/38ke1"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/twitter.svg" ></a>
-<a href="https://github.com/miyakei1225"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/github.svg" ></a>
-
-</div>
 
 ## 💻 I know & using (Languages and Tools)
 <code><img height="40" title="Laravel" src="https://www.casleyconsulting.co.jp/wordpress/wp-content/uploads/2019/07/laravel-512.png"></code>
@@ -46,20 +40,3 @@ I love open source.
 [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
-<!--
-**miyakei1225/miyakei1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ....
-- 👯 I’m looking to collaborate on ..
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ..
-- ⚡ Fun fact: ...
--->
