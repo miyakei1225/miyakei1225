@@ -41,7 +41,7 @@ I love open source.
 |<img alt="snake animation" width="100%" src="https://user-images.githubusercontent.com/105062512/230812023-331255bc-461a-4c22-971a-f05e9220d9c5.svg" />
 |:-:|
 
-[![](https://raw.githubusercontent.com/miyakei1225/miyakei1225/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/miyakei1225/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/miyakei1225/miyakei1225/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/miyakei1225/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
