@@ -45,7 +45,7 @@ I love open source.
 [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/moltack/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/moltack/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/moltack/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/moltack/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miyakei1225&row=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **miyakei1225/miyakei1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
