@@ -14,11 +14,13 @@ I love open source.
 
 
 ## 💻 I know & using (Languages and Tools)
-<code><img height="40" title="Laravel" src="https://www.casleyconsulting.co.jp/wordpress/wp-content/uploads/2019/07/laravel-512.png"></code>
+<code><img height="40" title="Go" src="https://images.squarespace-cdn.com/content/v1/540d7a89e4b0387389f618ba/1442044120573-VTGACQ984XCQ7WAYB3KI/image-asset.png?format=1000w"></code>
 <code><img height="40" title="Vim" src="https://www.kaoriya.net/blog/2013/12/06/vimlogo-564x564.png"></code>
 <code><img height="40" title="Visual Studio" src="https://beyondjapan.com/cms/wp-content/uploads/2019/06/500px-Visual_Studio_Code_1.35_icon.svg_.png"></code>
-
-
+<code><img height="40" title="GCP" src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/daikiyano/20190126/20190126201308.png"></code>
+<br />
+<code><img height="40" title="Protocol Buffers" src="https://camo.qiitausercontent.com/40045ea7f0301ca7fefb6c41fb40fc11b75954ac/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032302f30352f756e6e616d65642d312e706e67"></code>
+<code><img height="40" title="Docker Compose" src="https://techblog.gmo-ap.jp/wp-content/uploads/2016/11/CpenoXbXgAA-zKJ-660x650.png"></code>
 
 ## 📚 I'm currently learning & working
 
