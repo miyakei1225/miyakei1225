@@ -7,7 +7,7 @@
 <img height="20" src="https://qiita-badge.apiapi.app/s/miyakei1225/contributions.svg" />
 </a>
 
-I love open source
+I love open source.
 
 ![gitartwork](gitartwork.svg)
 
