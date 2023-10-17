@@ -29,6 +29,7 @@ I love open source.
 <code><img height="40" title="Golang" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png"></code>
 <code><img height="40" title="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
 <code><img height="40" title="Swift" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOHR726r4ZEiLI5n7vCTkGbaq15BRE-BlgCg&usqp=CAU"></code>
+<code><img height="40" title="Swift" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png"></code>
 
 
 
