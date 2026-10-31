@@ -43,6 +43,9 @@ I love open source.
 [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miyakei1225/github-profile-summary-cards/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.dev/card.html?username=miyakei1225&fix=true)](https://githubplanet.dev/card.html?username=miyakei1225)
+
+
 :smile
 ```
                                oooo$$$$$$$$$$$$oooo
